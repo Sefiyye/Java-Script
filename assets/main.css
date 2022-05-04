@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#main .card {
+  border-style: none;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+#main .card .card-text {
+  color: green;
+}
+
+.icons ul {
+  padding-left: 5rem;
+  margin-top: -14px;
+}
+
+.icons ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+.icon ul li {
+  list-style: none;
+  padding-left: 200px;
+}
+/*# sourceMappingURL=main.css.map */
